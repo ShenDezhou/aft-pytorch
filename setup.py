@@ -13,7 +13,7 @@ setup(
   long_description=README,
   author = 'Shen Dezhou',
   author_email = 'tsinghua9boy@sina.com',
-  url = 'https://github.com/ShenDezhou/aft-pytorch',
+  url = 'https://github.com/shendezhou/aft-pytorch',
   keywords = [
     'artificial intelligence',
     'deep learning',
@@ -31,5 +31,9 @@ setup(
     'Topic :: Scientific/Engineering :: Artificial Intelligence',
     'License :: OSI Approved :: MIT License',
     'Programming Language :: Python :: 3.6',
+    'Programming Language :: Python :: 3.7',
+    'Programming Language :: Python :: 3.8',
+    'Programming Language :: Python :: 3.9',
+    'Programming Language :: Python :: 3.10'
   ],
 )
